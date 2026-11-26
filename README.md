@@ -11,6 +11,6 @@ In and all, I enjoy vibe coding, and knowing a thing or two about data structure
 - **[My portfolio](https://datawithmursalin-cloud.github.io/Portfolio/)** — Because I wanted to try Fable 5.2. [View the source](https://github.com/datawithmursalin-cloud/Portfolio)
 - **[GRE & IELTS Practice Studio](https://datawithmursalin-cloud.github.io/GRE-IELTS-Practice-Studio/)** — A study app for timed GRE practice and IELTS exercises because why not. [View the source](https://github.com/datawithmursalin-cloud/GRE-IELTS-Practice-Studio)
 - **[Take a Walk](https://github.com/datawithmursalin-cloud/Take-a-walk)** — A Swift app that lives in the Mac menu bar and reminds me to step away from your desk because of my lower back pain.
-- **[Mac E-Mouse](https://github.com/datawithmursalin-cloud/Mac-E-Mouse-Public)** — I added trackpad-style scrolling and zoom to my multi-button mouse with a fork of Mac Mouse Fix.
+- **[Mac E-Mouse](https://github.com/datawithmursalin-cloud/Mac-E-Mouse-Public)** — Added trackpad-style scrolling and zoom to my multi-button mouse with a fork of Mac Mouse Fix because they asked me to buy their app to keep using their v3.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/syedmursalin/)
