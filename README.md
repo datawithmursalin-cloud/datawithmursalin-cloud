@@ -4,7 +4,7 @@
 
 Even though I'm an Econ major, I taught myself to code in my spare time. In 2026 I learned my way around GitHub and got a little more *committed* to my work. The green squares shows how many times I had to *push* myself this year.
 
-In and all, I enjoy vibe coding, and using Agentic AI. Plus knowing a thing or two about data structures and AI tools helps me decide how different pieces fit together in a project from creative web design to real world applications.
+In and all, I enjoy vibe coding, and using agentic AI. Plus knowing a thing or two about data structures and AI tools helps me decide how different pieces fit together in a project from creative web design to real world applications.
 
 ### Here's a sneek peek of the things I built that are public, and because I was bored.
 
