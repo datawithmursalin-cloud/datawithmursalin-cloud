@@ -8,8 +8,9 @@ In and all, I enjoy vibe coding, and knowing a thing or two about data structure
 
 ### Here's a sneek peek of the things I built that are public, and because I was bored.
 
-- **[My portfolio](https://datawithmursalin-cloud.github.io/Portfolio/)** — A Next.js and TypeScript site with scroll animation and a custom WebGL shader. [View the source](https://github.com/datawithmursalin-cloud/Portfolio)
-- **[GRE & IELTS Practice Studio](https://datawithmursalin-cloud.github.io/GRE-IELTS-Practice-Studio/)** — A study app for timed GRE practice and IELTS exercises. [View the source](https://github.com/datawithmursalin-cloud/GRE-IELTS-Practice-Studio)
-- **[Take a Walk](https://github.com/datawithmursalin-cloud/Take-a-walk)** — A Swift app that lives in the Mac menu bar and reminds you to step away from your desk.
+- **[My portfolio](https://datawithmursalin-cloud.github.io/Portfolio/)** — Because I wanted to try Fable 5.2. [View the source](https://github.com/datawithmursalin-cloud/Portfolio)
+- **[GRE & IELTS Practice Studio](https://datawithmursalin-cloud.github.io/GRE-IELTS-Practice-Studio/)** — A study app for timed GRE practice and IELTS exercises because why not. [View the source](https://github.com/datawithmursalin-cloud/GRE-IELTS-Practice-Studio)
+- **[Take a Walk](https://github.com/datawithmursalin-cloud/Take-a-walk)** — A Swift app that lives in the Mac menu bar and reminds me to step away from your desk because of my lower back pain.
+- **[Mac E-Mouse](https://github.com/datawithmursalin-cloud/Mac-E-Mouse-Public)** — I added trackpad-style scrolling and zoom to my multi-button mouse with a fork of Mac Mouse Fix.
 
-If you’re building something too, I’d love to see what you’re working on. I’m especially interested in trading notes on AI workflows or teaming up on a prototype. [Find me on LinkedIn](https://www.linkedin.com/in/syedmursalin/)
+[Find me on LinkedIn](https://www.linkedin.com/in/syedmursalin/)
